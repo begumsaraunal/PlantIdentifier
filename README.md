@@ -138,13 +138,15 @@ Match confidence:   normalized score displayed as a percentage
 
 ## Advertising Concepts
 
-The case study also includes three short-form vertical ad concepts:
+The case study also includes three advertising concepts designed for different audiences, platforms, and creative angles:
 
-1. **3 Seconds Challenge** — “You had 3 seconds. AI didn't need them.”  
-2. **Know Before You Touch** — Let's learn before we touch it.”
+1. **3 Seconds Challenge** — “You had 3 seconds. AI didn't need them.”
+2. **Know Before You Touch** — “Let's learn before we touch it.”
 3. **Plant Parent** — “Turn curiosity into discovery.”
 
-See `AD_CONCEPTS.md` and `AD_STORYBOARDS.md` for the full concepts, scripts, production notes, and 9:16 storyboard specifications.
+The concepts combine short-form social and YouTube-oriented creative formats while keeping the core product promise consistent: identify plants from a photo.
+
+See `AD_CONCEPTS.md` and `AD_STORYBOARDS.md` for the full concepts, scripts, production notes, and storyboard specifications.
 
 ## Screenshots and Demo
 
