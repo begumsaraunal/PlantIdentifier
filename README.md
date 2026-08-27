@@ -160,7 +160,7 @@ The main product states are shown below:
 |---|---|
 | ![Analysis](screenshots/Analysis.png) | ![Result](screenshots/Result.png) |
 
-Watch the product flow in the [Plant AI demo video](screenshots/PlantAI.webm).
+Watch the product flow in the [Plant AI demo video](screenshots/PlantAI-small.webm).
 
 ## Security notes
 
