@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryGreen">#1B5E20</color>
+    <color name="primaryLightGreen">#43A047</color>
+    <color name="accentGreen">#C8E6C9</color>
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="appBackground">#FAFAF7</color>
+    <color name="appText">#202020</color>
+    <color name="appMutedText">#757575</color>
+    <color name="appDivider">#C8E6C9</color>
+    <color name="appSurface">#FFFFFF</color>
+    <color name="appSurfaceTint">#C8E6C9</color>
+    <color name="primaryDeep">#1B5E20</color>
+</resources>

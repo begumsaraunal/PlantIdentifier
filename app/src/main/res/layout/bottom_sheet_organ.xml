@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bottom_sheet_background"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    android:paddingTop="24dp"
+    android:paddingBottom="28dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_plant_part"
+        android:textColor="@color/appText"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:text="@string/choose_plant_part_hint"
+        android:textColor="@color/appMutedText"
+        android:textSize="14sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrganLeaf"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="18dp"
+        android:text="@string/plant_part_leaf"
+        android:textAllCaps="false"
+        android:textColor="@color/appText"
+        app:backgroundTint="@color/appSurfaceTint"
+        app:cornerRadius="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrganFlower"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/plant_part_flower"
+        android:textAllCaps="false"
+        android:textColor="@color/appText"
+        app:backgroundTint="@color/appSurfaceTint"
+        app:cornerRadius="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrganFruit"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/plant_part_fruit"
+        android:textAllCaps="false"
+        android:textColor="@color/appText"
+        app:backgroundTint="@color/appSurfaceTint"
+        app:cornerRadius="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrganBark"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/plant_part_bark"
+        android:textAllCaps="false"
+        android:textColor="@color/appText"
+        app:backgroundTint="@color/appSurfaceTint"
+        app:cornerRadius="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrganHabit"
+        style="@style/Widget.Material3.Button.TonalButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/plant_part_habit"
+        android:textAllCaps="false"
+        android:textColor="@color/appText"
+        app:backgroundTint="@color/appSurfaceTint"
+        app:cornerRadius="16dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnOrganUnknown"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/plant_part_unknown"
+        android:textAllCaps="false"
+        android:textColor="@color/primaryGreen"
+        app:strokeColor="@color/primaryGreen"
+        app:strokeWidth="1dp"
+        app:cornerRadius="16dp" />
+</LinearLayout>

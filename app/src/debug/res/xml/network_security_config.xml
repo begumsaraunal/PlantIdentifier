@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Local development uses HTTP for both emulator and physical devices. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
